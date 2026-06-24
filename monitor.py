@@ -1,4 +1,3 @@
-# monitor.py
 import feedparser
 import json
 import os
@@ -346,7 +345,12 @@ def main():
 
     html = gerar_html(cache, feeds, produtos)
 
+    # backup opcional
     with open("relatorio.html", "w", encoding="utf-8") as f:
+        f.write(html)
+
+    # 🌐 necessário para GitHub Pages
+    with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
 
     print("OK - executado com match externo e cache")
