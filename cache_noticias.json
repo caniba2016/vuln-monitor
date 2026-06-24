@@ -1,0 +1,92 @@
+[
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+    "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+    "data_dt": "Fri, 05 Jun 2026 10:00:10 -0400",
+    "data_fmt": "05/06/2026",
+    "is_today": false,
+    "resumo": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
+    "fonte": "BleepingComputer"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "Microsoft Fixes One-Click GitHub Dev Attack That Let Attackers Steal OAuth Tokens",
+    "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+    "data_dt": "Wed, 03 Jun 2026 23:28:00 +0530",
+    "data_fmt": "03/06/2026",
+    "is_today": false,
+    "resumo": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token.\n\n\"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+    "data_dt": "Wed, 03 Jun 2026 22:00:00 +0530",
+    "data_fmt": "03/06/2026",
+    "is_today": false,
+    "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nThe vulnerabi",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "GitHub Breach Traced to Malicious 'Nx Console' VS Code Extension",
+    "link": "https://www.infosecurity-magazine.com/news/github-breach-nx-console-vs-code/",
+    "data_dt": "Thu, 21 May 2026 14:45:00 GMT",
+    "data_fmt": "21/05/2026",
+    "is_today": false,
+    "resumo": "A threat actor compromised an Nx developer and posed as a legitimate maintainer to publish a malicious extension on Visual Studio Marketplace",
+    "fonte": "https://www.infosecurity-magazine.com/rss/news/"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "GitHub Confirms Breach of Internal Repositories Via Malicious VS Code Extension",
+    "link": "https://www.infosecurity-magazine.com/news/github-confirms-breach-vs-code/",
+    "data_dt": "Wed, 20 May 2026 10:45:00 GMT",
+    "data_fmt": "20/05/2026",
+    "is_today": false,
+    "resumo": "The prolific threat group TeamPCP has claimed a hack into GitHub’s internal repositories",
+    "fonte": "https://www.infosecurity-magazine.com/rss/news/"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates",
+    "link": "https://www.infosecurity-magazine.com/news/us-fcc-relaxes-foreign-router-ban/",
+    "data_dt": "Mon, 11 May 2026 11:00:00 GMT",
+    "data_fmt": "11/05/2026",
+    "is_today": false,
+    "resumo": "The same extension applies to security updates shipped to US-based users of foreign-made drones",
+    "fonte": "https://www.infosecurity-magazine.com/rss/news/"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "Cursor Extension Flaw Exposes Developer API Keys",
+    "link": "https://www.infosecurity-magazine.com/news/cursor-extension-flaw-exposes-api/",
+    "data_dt": "Wed, 29 Apr 2026 15:00:00 GMT",
+    "data_fmt": "29/04/2026",
+    "is_today": false,
+    "resumo": "Cursor flaw lets extensions steal API keys and session tokens without user interaction, according to researchers at LayerX",
+    "fonte": "https://www.infosecurity-magazine.com/rss/news/"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "Widely Used Browser Extensions Selling User Data",
+    "link": "https://www.infosecurity-magazine.com/news/browser-extensions-sell-user-data/",
+    "data_dt": "Mon, 27 Apr 2026 13:30:00 GMT",
+    "data_fmt": "27/04/2026",
+    "is_today": false,
+    "resumo": "Dozens of browser extensions openly sell user data via privacy policy disclosures",
+    "fonte": "https://www.infosecurity-magazine.com/rss/news/"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "Malicious Chrome Extensions Campaign Exposes User Data",
+    "link": "https://www.infosecurity-magazine.com/news/chrome-extensions-expose-user-data/",
+    "data_dt": "Tue, 14 Apr 2026 11:30:00 GMT",
+    "data_fmt": "14/04/2026",
+    "is_today": false,
+    "resumo": "108 malicious Chrome extensions steal sessions, Google data, inject ads via single C2 infrastructure",
+    "fonte": "https://www.infosecurity-magazine.com/rss/news/"
+  }
+]
