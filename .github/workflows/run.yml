@@ -2,8 +2,11 @@ name: Run Vulnerability Monitor
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # roda a cada 6 horas
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
