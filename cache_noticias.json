@@ -208,5 +208,15 @@
     "is_today": false,
     "resumo": "The attacks stemmed from a GitHub account that was also compromised in a previous Miasma attack on Microsoft last month.",
     "fonte": "darkreading"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+    "data_dt": "Fri, 26 Jun 2026 16:35:45 +0530",
+    "data_fmt": "26/06/2026",
+    "is_today": true,
+    "resumo": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.\n\n\"The latest activity includes malicious npm releases",
+    "fonte": "The Hacker News"
   }
 ]
