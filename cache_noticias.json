@@ -218,5 +218,15 @@
     "is_today": true,
     "resumo": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.\n\n\"The latest activity includes malicious npm releases",
     "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Clean GitHub repo tricks AI coding agents into running malware",
+    "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+    "data_dt": "Sat, 27 Jun 2026 10:22:36 -0400",
+    "data_fmt": "27/06/2026",
+    "is_today": true,
+    "resumo": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+    "fonte": "BleepingComputer"
   }
 ]
