@@ -228,5 +228,25 @@
     "is_today": true,
     "resumo": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
     "fonte": "BleepingComputer"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+    "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+    "data_dt": "Mon, 29 Jun 2026 11:06:06 +0530",
+    "data_fmt": "29/06/2026",
+    "is_today": true,
+    "resumo": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts.\n\n\"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps i",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Mozilla warns of indirect prompt injection risk in AI coding agents",
+    "link": "https://www.helpnetsecurity.com/2026/06/29/mozilla-warns-of-indirect-prompt-injection-risk-in-ai-coding-agents/",
+    "data_dt": "Mon, 29 Jun 2026 10:48:12 +0000",
+    "data_fmt": "29/06/2026",
+    "is_today": true,
+    "resumo": "<p>A malicious GitHub repository can silently compromise a developer&#8217;s machine without containing a single line of malicious code, security researchers at Mozilla&#8217;s Zero Day Investigative Network (0DIN) warned. The attack The proof-of-concept attack targets AI-powered coding agents such ",
+    "fonte": "Help Net Security"
   }
 ]
