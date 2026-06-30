@@ -248,5 +248,25 @@
     "is_today": true,
     "resumo": "<p>A malicious GitHub repository can silently compromise a developer&#8217;s machine without containing a single line of malicious code, security researchers at Mozilla&#8217;s Zero Day Investigative Network (0DIN) warned. The attack The proof-of-concept attack targets AI-powered coding agents such ",
     "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Vulnerability reports are arriving faster than GitHub can review them",
+    "link": "https://www.helpnetsecurity.com/2026/06/30/github-advisory-database-review/",
+    "data_dt": "Tue, 30 Jun 2026 05:25:39 +0000",
+    "data_fmt": "30/06/2026",
+    "is_today": true,
+    "resumo": "<p>Across the open source world, people are reporting software flaws in record numbers, and the systems built to verify those reports are straining under the weight. The GitHub Advisory Database, which feeds automated security alerts to millions of projects, has reached a point where some new adviso",
+    "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "WSL containers now build and run Linux workloads on Windows",
+    "link": "https://www.helpnetsecurity.com/2026/06/30/microsoft-linux-wsl-containers/",
+    "data_dt": "Tue, 30 Jun 2026 04:50:07 +0000",
+    "data_fmt": "30/06/2026",
+    "is_today": true,
+    "resumo": "<p>Containers power a large share of cloud-native applications, AI workloads, and testing and deployment pipelines. Developers working on Windows have long pulled in third-party software to build and run them. That step becomes optional with WSL containers, a feature that arrived at Microsoft Build ",
+    "fonte": "Help Net Security"
   }
 ]
