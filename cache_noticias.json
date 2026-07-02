@@ -268,5 +268,15 @@
     "is_today": true,
     "resumo": "<p>Containers power a large share of cloud-native applications, AI workloads, and testing and deployment pipelines. Developers working on Windows have long pulled in third-party software to build and run them. That step becomes optional with WSL containers, a feature that arrived at Microsoft Build ",
     "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+    "data_dt": "Wed, 01 Jul 2026 16:08:13 -0400",
+    "data_fmt": "01/07/2026",
+    "is_today": false,
+    "resumo": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+    "fonte": "BleepingComputer"
   }
 ]
