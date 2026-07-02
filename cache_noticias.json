@@ -278,5 +278,25 @@
     "is_today": false,
     "resumo": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
     "fonte": "BleepingComputer"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+    "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+    "data_dt": "Thu, 02 Jul 2026 12:54:23 +0530",
+    "data_fmt": "02/07/2026",
+    "is_today": true,
+    "resumo": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs.\n\nRun one, and it quietly lifts your saved passwords, ",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub’s new tool helps prevent costly open-source license violations",
+    "link": "https://www.helpnetsecurity.com/2026/07/02/github-license-compliance-feature/",
+    "data_dt": "Thu, 02 Jul 2026 04:00:33 +0000",
+    "data_fmt": "02/07/2026",
+    "is_today": true,
+    "resumo": "<p>GitHub&#8217;s Open Source Program Office (OSPO) uses the new GitHub License Compliance feature, now in public preview, to manage thousands of open-source dependencies and identify dependencies whose licenses require review. The feature is available to GitHub Advanced Security customers and allow",
+    "fonte": "Help Net Security"
   }
 ]
