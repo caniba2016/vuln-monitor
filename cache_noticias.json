@@ -308,5 +308,25 @@
     "is_today": true,
     "resumo": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
     "fonte": "BleepingComputer"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+    "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+    "data_dt": "Tue, 07 Jul 2026 19:34:50 +0530",
+    "data_fmt": "07/07/2026",
+    "is_today": true,
+    "resumo": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.\n\nThe attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows",
+    "link": "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows",
+    "data_dt": "Tue, 07 Jul 2026 15:24:30 GMT",
+    "data_fmt": "07/07/2026",
+    "is_today": true,
+    "resumo": "The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
+    "fonte": "darkreading"
   }
 ]
