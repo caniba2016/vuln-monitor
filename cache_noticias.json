@@ -328,5 +328,45 @@
     "is_today": true,
     "resumo": "The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
     "fonte": "darkreading"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+    "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+    "data_dt": "Wed, 08 Jul 2026 17:21:24 +0530",
+    "data_fmt": "08/07/2026",
+    "is_today": true,
+    "resumo": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author, and date, and a valid signature, GitHub still stamps \"Veri",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+    "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+    "data_dt": "Wed, 08 Jul 2026 16:51:07 +0530",
+    "data_fmt": "08/07/2026",
+    "is_today": true,
+    "resumo": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a&nbsp;new study of GitHub Copilot&nbsp;by researchers Abhishek Kumar and Carsten Maple",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
+    "link": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
+    "data_dt": "Wed, 08 Jul 2026 10:30:55 +0000",
+    "data_fmt": "08/07/2026",
+    "is_today": true,
+    "resumo": "<p>Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection",
+    "fonte": "SecurityWeek"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub's former CEO launches a distributed Git network built for the agentic coding age",
+    "link": "https://www.zdnet.com/article/githubs-former-ceo-launches-a-distributed-git-network-built-for-the-agentic-coding-age/",
+    "data_dt": "Wed, 08 Jul 2026 13:00:15 GMT",
+    "data_fmt": "08/07/2026",
+    "is_today": true,
+    "resumo": "The developer tools startup said it's building better infrastructure for a future run by coding agents.",
+    "fonte": "Latest news"
   }
 ]
