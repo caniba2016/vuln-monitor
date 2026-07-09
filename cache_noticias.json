@@ -398,5 +398,25 @@
     "is_today": true,
     "resumo": "<p>Millions of developers share their keyboard with GitHub Copilot. Inside Visual Studio Code, it opens their files, writes and edits code, runs scripts, and reworks its own output across many turns. The safety testing that vets these agents still runs on chatbot rules: one harmful prompt, one respo",
     "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+    "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+    "data_dt": "Fri, 10 Jul 2026 00:08:49 +0530",
+    "data_fmt": "10/07/2026",
+    "is_today": false,
+    "resumo": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveragi",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+    "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+    "data_dt": "Thu, 09 Jul 2026 22:19:02 +0530",
+    "data_fmt": "09/07/2026",
+    "is_today": true,
+    "resumo": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).\n\nThe Microsoft-owned subsidiary noted that the following npm install behaviors that used to",
+    "fonte": "The Hacker News"
   }
 ]
