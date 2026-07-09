@@ -368,5 +368,15 @@
     "is_today": true,
     "resumo": "The developer tools startup said it's building better infrastructure for a future run by coding agents.",
     "fonte": "Latest news"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Open-source collaboration is growing worldwide and putting pressure on maintainers",
+    "link": "https://www.helpnetsecurity.com/2026/07/09/github-open-source-collaboration/",
+    "data_dt": "Thu, 09 Jul 2026 05:10:05 +0000",
+    "data_fmt": "09/07/2026",
+    "is_today": true,
+    "resumo": "<p>Developers are pushing code and opening pull requests across economy borders at a rate GitHub has rarely seen. Outbound collaboration, the sum of git pushes and pull requests sent from developers in one economy to public repositories in another, grew by 16% from Q4 2025 to Q1 2026, according to t",
+    "fonte": "Help Net Security"
   }
 ]
