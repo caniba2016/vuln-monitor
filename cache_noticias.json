@@ -438,5 +438,25 @@
     "is_today": true,
     "resumo": "<p>A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/\">Network of 200 GitHub Repositories Used for Malware Infectio",
     "fonte": "SecurityWeek"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+    "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+    "data_dt": "Fri, 10 Jul 2026 21:59:00 +0530",
+    "data_fmt": "10/07/2026",
+    "is_today": true,
+    "resumo": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases.\n\nThe compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with ",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "CISA Details Incident Response to Exposed AWS GovCloud Keys",
+    "link": "https://www.infosecurity-magazine.com/news/cisa-incident-response-exposed-aws/",
+    "data_dt": "Fri, 10 Jul 2026 16:00:00 GMT",
+    "data_fmt": "10/07/2026",
+    "is_today": true,
+    "resumo": "CISA reveals how it responded after sensitive AWS GovCloud credentials and internal data were exposed in a public GitHub repository",
+    "fonte": "https://www.infosecurity-magazine.com/rss/news/"
   }
 ]
