@@ -428,5 +428,15 @@
     "is_today": false,
     "resumo": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]",
     "fonte": "BleepingComputer"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Network of 200 GitHub Repositories Used for Malware Infection",
+    "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
+    "data_dt": "Fri, 10 Jul 2026 08:00:14 +0000",
+    "data_fmt": "10/07/2026",
+    "is_today": true,
+    "resumo": "<p>A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/\">Network of 200 GitHub Repositories Used for Malware Infectio",
+    "fonte": "SecurityWeek"
   }
 ]
