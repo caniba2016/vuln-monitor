@@ -418,5 +418,15 @@
     "is_today": true,
     "resumo": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).\n\nThe Microsoft-owned subsidiary noted that the following npm install behaviors that used to",
     "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Injective SDK on npm infected with cryptocurrency wallet stealer",
+    "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+    "data_dt": "Thu, 09 Jul 2026 16:10:00 -0400",
+    "data_fmt": "09/07/2026",
+    "is_today": false,
+    "resumo": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]",
+    "fonte": "BleepingComputer"
   }
 ]
