@@ -458,5 +458,15 @@
     "is_today": true,
     "resumo": "CISA reveals how it responded after sensitive AWS GovCloud credentials and internal data were exposed in a public GitHub repository",
     "fonte": "https://www.infosecurity-magazine.com/rss/news/"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
+    "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
+    "data_dt": "Sat, 11 Jul 2026 17:30:00 +0000",
+    "data_fmt": "11/07/2026",
+    "is_today": true,
+    "resumo": "<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/\">Ghost Accounts Abuse GitHub API in Mass Recon Campaign</a> appeared fir",
+    "fonte": "SecurityWeek"
   }
 ]
