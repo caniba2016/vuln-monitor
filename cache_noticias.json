@@ -468,5 +468,15 @@
     "is_today": true,
     "resumo": "<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/\">Ghost Accounts Abuse GitHub API in Mass Recon Campaign</a> appeared fir",
     "fonte": "SecurityWeek"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Nearly 300 GitHub repos pose as legit software to push malware",
+    "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+    "data_dt": "Tue, 14 Jul 2026 15:15:17 -0400",
+    "data_fmt": "14/07/2026",
+    "is_today": true,
+    "resumo": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
+    "fonte": "BleepingComputer"
   }
 ]
