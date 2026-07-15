@@ -478,5 +478,25 @@
     "is_today": true,
     "resumo": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
     "fonte": "BleepingComputer"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Threat actor impersonated hundreds of brands on GitHub to push infostealer malware",
+    "link": "https://www.helpnetsecurity.com/2026/07/15/impersonated-brands-github-infostealer-download/",
+    "data_dt": "Wed, 15 Jul 2026 13:52:39 +0000",
+    "data_fmt": "15/07/2026",
+    "is_today": true,
+    "resumo": "<p>A financially motivated threat actor is impersonating hundreds of brands on GitHub and pushing a smash-and-grab infostealer masquerading as legitimate downloads of popular software, Arctic Wolf threat researchers have warned. &#8220;The 292 impersonated repositories span security tooling, fintech",
+    "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Hundreds of GitHub repos found posing as real software to push malware",
+    "link": "https://www.techradar.com/pro/security/hundreds-of-github-repos-found-posing-as-real-software-to-push-malware",
+    "data_dt": "Wed, 15 Jul 2026 15:05:00 +0000",
+    "data_fmt": "15/07/2026",
+    "is_today": true,
+    "resumo": "Russian hackers are trying to sneak infostealers onto people's devices to grab passwords, crypto, and more.",
+    "fonte": "Latest from TechRadar"
   }
 ]
