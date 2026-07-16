@@ -538,5 +538,15 @@
     "is_today": true,
     "resumo": "<p>Intruder has announced the launch of AI Pentesting for web applications, providing on-demand penetration testing. Following its initial release of issue-level investigations last quarter, the platform now allows organizations to securely connect their codebases via GitHub or GitLab to automatical",
     "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Russians need a VPN to access Google and Apple as unexplained nationwide outages hit",
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/russians-need-a-vpn-to-access-google-and-apple-as-unexplained-nationwide-outages-hit",
+    "data_dt": "Thu, 16 Jul 2026 13:52:45 +0000",
+    "data_fmt": "16/07/2026",
+    "is_today": true,
+    "resumo": "Russian internet users awoke to broken connections across Google, Apple, and GitHub websites. While state censors deny involvement, the outages highlight why VPNs are more crucial than ever.",
+    "fonte": "Latest from TechRadar"
   }
 ]
