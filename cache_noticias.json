@@ -498,5 +498,15 @@
     "is_today": true,
     "resumo": "Russian hackers are trying to sneak infostealers onto people's devices to grab passwords, crypto, and more.",
     "fonte": "Latest from TechRadar"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Top AI tools such as OpenClaw and Github Copilot can be hijacked to create new massive botnets",
+    "link": "https://www.techradar.com/pro/security/top-ai-tools-such-as-openclaw-and-github-copilot-can-be-hijacked-to-create-new-massive-botnets",
+    "data_dt": "Wed, 15 Jul 2026 20:05:00 +0000",
+    "data_fmt": "15/07/2026",
+    "is_today": false,
+    "resumo": "Researchers find nine of the most popular AI platforms are susceptible to a new attack that exploits hallucinations to set up a botnet.",
+    "fonte": "Latest from TechRadar"
   }
 ]
