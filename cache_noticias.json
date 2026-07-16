@@ -518,5 +518,25 @@
     "is_today": true,
     "resumo": "<p>Developers who lean on AI coding agents often keep several editor windows open at once, each tied to its own session. The 1.129 release of Visual Studio Code reworks that setup with a dedicated agent host. A dedicated process for agent sessions The agent host is a separate process that runs agent",
     "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+    "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+    "data_dt": "Thu, 16 Jul 2026 17:02:28 +0530",
+    "data_fmt": "16/07/2026",
+    "is_today": true,
+    "resumo": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer.\n\nNeither trick hijacks the a",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Intruder brings AI-powered, on-demand penetration testing to web applications",
+    "link": "https://www.helpnetsecurity.com/2026/07/16/intruder-brings-ai-powered-on-demand-penetration-testing-to-web-applications/",
+    "data_dt": "Thu, 16 Jul 2026 11:30:50 +0000",
+    "data_fmt": "16/07/2026",
+    "is_today": true,
+    "resumo": "<p>Intruder has announced the launch of AI Pentesting for web applications, providing on-demand penetration testing. Following its initial release of issue-level investigations last quarter, the platform now allows organizations to securely connect their codebases via GitHub or GitLab to automatical",
+    "fonte": "Help Net Security"
   }
 ]
