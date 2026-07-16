@@ -508,5 +508,15 @@
     "is_today": false,
     "resumo": "Researchers find nine of the most popular AI platforms are susceptible to a new attack that exploits hallucinations to set up a botnet.",
     "fonte": "Latest from TechRadar"
+  },
+  {
+    "produto": "Visual Studio Code",
+    "titulo": "VS Code agent host runs Copilot, Claude, and Codex in a dedicated process",
+    "link": "https://www.helpnetsecurity.com/2026/07/16/vs-visual-studio-code-agent-host/",
+    "data_dt": "Thu, 16 Jul 2026 07:45:47 +0000",
+    "data_fmt": "16/07/2026",
+    "is_today": true,
+    "resumo": "<p>Developers who lean on AI coding agents often keep several editor windows open at once, each tied to its own session. The 1.129 release of Visual Studio Code reworks that setup with a dedicated agent host. A dedicated process for agent sessions The agent host is a separate process that runs agent",
+    "fonte": "Help Net Security"
   }
 ]
