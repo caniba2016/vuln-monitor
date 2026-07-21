@@ -548,5 +548,15 @@
     "is_today": true,
     "resumo": "Russian internet users awoke to broken connections across Google, Apple, and GitHub websites. While state censors deny involvement, the outages highlight why VPNs are more crucial than ever.",
     "fonte": "Latest from TechRadar"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+    "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+    "data_dt": "Mon, 20 Jul 2026 23:53:03 +0530",
+    "data_fmt": "20/07/2026",
+    "is_today": false,
+    "resumo": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"Fa",
+    "fonte": "The Hacker News"
   }
 ]
