@@ -558,5 +558,15 @@
     "is_today": false,
     "resumo": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"Fa",
     "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Open-source maintainers still work underfunded as sponsorship crosses $100 million",
+    "link": "https://www.helpnetsecurity.com/2026/07/21/open-source-github-sponsors-100-million/",
+    "data_dt": "Tue, 21 Jul 2026 08:37:51 +0000",
+    "data_fmt": "21/07/2026",
+    "is_today": true,
+    "resumo": "<p>A maintainer patches a library late at night that ships inside thousands of products, and no invoice follows. Sebastián Ramírez and Caleb Porzio spent years in that position. Ramírez, known as tiangolo, builds tools that other Python projects depend on. Porzio built Livewire and Alpine.js, tools ",
+    "fonte": "Help Net Security"
   }
 ]
