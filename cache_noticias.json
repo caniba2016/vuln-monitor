@@ -568,5 +568,15 @@
     "is_today": true,
     "resumo": "<p>A maintainer patches a library late at night that ships inside thousands of products, and no invoice follows. Sebastián Ramírez and Caleb Porzio spent years in that position. Ramírez, known as tiangolo, builds tools that other Python projects depend on. Porzio built Livewire and Alpine.js, tools ",
     "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "AI agents tricked into recommending malicious GitHub repositories",
+    "link": "https://www.helpnetsecurity.com/2026/07/21/github-repos-malware-campaign-fakegit-ai-agents/",
+    "data_dt": "Tue, 21 Jul 2026 14:27:38 +0000",
+    "data_fmt": "21/07/2026",
+    "is_today": true,
+    "resumo": "<p>Roughly 7,600 malicious GitHub repositories were uncovered, more than 800 of them posing as AI Skills or Model Context Protocol (MCP) servers, in a wave that peaked in April 2026, according to Island. The scale of the FakeGit operation (Source: Island) The fake repositories are tied to about 6,60",
+    "fonte": "Help Net Security"
   }
 ]
