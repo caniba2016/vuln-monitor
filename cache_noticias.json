@@ -588,5 +588,15 @@
     "is_today": false,
     "resumo": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
     "fonte": "BleepingComputer"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Small teams are the heaviest users of AI coding agents",
+    "link": "https://www.helpnetsecurity.com/2026/07/22/users-of-ai-coding-agents/",
+    "data_dt": "Wed, 22 Jul 2026 06:00:31 +0000",
+    "data_fmt": "22/07/2026",
+    "is_today": true,
+    "resumo": "<p>The pull request arrives with the tests already run and the description already written, the work of an agent that handled the whole thing on its own. Somebody still has to read it. On GitHub that somebody is usually one developer sitting alone with the diff, and the rest of the project never see",
+    "fonte": "Help Net Security"
   }
 ]
