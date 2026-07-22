@@ -578,5 +578,15 @@
     "is_today": true,
     "resumo": "<p>Roughly 7,600 malicious GitHub repositories were uncovered, more than 800 of them posing as AI Skills or Model Context Protocol (MCP) servers, in a wave that peaked in April 2026, according to Island. The scale of the FakeGit operation (Source: Island) The fake repositories are tied to about 6,60",
     "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+    "data_dt": "Tue, 21 Jul 2026 18:34:17 -0400",
+    "data_fmt": "21/07/2026",
+    "is_today": false,
+    "resumo": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+    "fonte": "BleepingComputer"
   }
 ]
