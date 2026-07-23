@@ -598,5 +598,15 @@
     "is_today": true,
     "resumo": "<p>The pull request arrives with the tests already run and the description already written, the work of an agent that handled the whole thing on its own. Somebody still has to read it. On GitHub that somebody is usually one developer sitting alone with the diff, and the rest of the project never see",
     "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+    "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+    "data_dt": "Thu, 23 Jul 2026 00:07:42 +0530",
+    "data_fmt": "23/07/2026",
+    "is_today": true,
+    "resumo": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more.\n\nReports filed before that date, including those alrea",
+    "fonte": "The Hacker News"
   }
 ]
