@@ -608,5 +608,35 @@
     "is_today": true,
     "resumo": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more.\n\nReports filed before that date, including those alrea",
     "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+    "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+    "data_dt": "Thu, 23 Jul 2026 16:58:54 +0530",
+    "data_fmt": "23/07/2026",
+    "is_today": true,
+    "resumo": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances.\n\nThe activity involves malicious Packagist development versions spanning 10 packag",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub revamps bug bounty program with new VIP tier, payout changes",
+    "link": "https://www.helpnetsecurity.com/2026/07/23/github-bug-bounty-program-changes/",
+    "data_dt": "Thu, 23 Jul 2026 08:35:50 +0000",
+    "data_fmt": "23/07/2026",
+    "is_today": true,
+    "resumo": "<p>GitHub is changing its bug bounty program to reward higher-quality vulnerability reports and reduce low-effort submissions, including AI-generated reports. The changes will take effect on July 27, 2026. Reports submitted before that date will be honored under the previous bounty structure. &#8220",
+    "fonte": "Help Net Security"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Jack Dorsey wants to take on Slack and GitHub with new Buzz platform bringing humans and agents together",
+    "link": "https://www.techradar.com/pro/jack-dorsey-wants-to-take-on-slack-and-github-with-new-buzz-platform-bringing-humans-and-agents-together",
+    "data_dt": "Thu, 23 Jul 2026 09:47:58 +0000",
+    "data_fmt": "23/07/2026",
+    "is_today": true,
+    "resumo": "Buzz is one single app for human-AI conversations, project context, code hosting and more.",
+    "fonte": "Latest from TechRadar"
   }
 ]
