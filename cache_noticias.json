@@ -638,5 +638,15 @@
     "is_today": true,
     "resumo": "Buzz is one single app for human-AI conversations, project context, code hosting and more.",
     "fonte": "Latest from TechRadar"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub restructures bug bounty program following flood of AI-generated reports",
+    "link": "https://www.techradar.com/pro/security/github-restructures-bug-bounty-program-following-flood-of-ai-generated-reports",
+    "data_dt": "Fri, 24 Jul 2026 15:45:00 +0000",
+    "data_fmt": "24/07/2026",
+    "is_today": true,
+    "resumo": "GitHub splits off open, public bug bounty programs from invite-only, VIP scheme which pays around 3-4x more.",
+    "fonte": "Latest from TechRadar"
   }
 ]
