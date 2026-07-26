@@ -648,5 +648,15 @@
     "is_today": true,
     "resumo": "GitHub splits off open, public bug bounty programs from invite-only, VIP scheme which pays around 3-4x more.",
     "fonte": "Latest from TechRadar"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+    "data_dt": "Sun, 26 Jul 2026 10:13:39 -0400",
+    "data_fmt": "26/07/2026",
+    "is_today": true,
+    "resumo": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+    "fonte": "BleepingComputer"
   }
 ]
