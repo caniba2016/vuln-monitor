@@ -658,5 +658,25 @@
     "is_today": true,
     "resumo": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
     "fonte": "BleepingComputer"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+    "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+    "data_dt": "Mon, 27 Jul 2026 13:31:23 +0530",
+    "data_fmt": "27/07/2026",
+    "is_today": true,
+    "resumo": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n\"The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown",
+    "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "GitHub delays version updates so malware gets caught first",
+    "link": "https://www.helpnetsecurity.com/2026/07/27/github-dependabot-cooldown/",
+    "data_dt": "Mon, 27 Jul 2026 04:00:20 +0000",
+    "data_fmt": "27/07/2026",
+    "is_today": true,
+    "resumo": "<p>An automated update tool watches a package registry, catches a new release the moment it publishes, and opens a pull request for your team. That is the job it was built to do. In September 2025, that speed cut the wrong way. An attacker phished one npm maintainer&#8217;s credentials and shipped p",
+    "fonte": "Help Net Security"
   }
 ]
