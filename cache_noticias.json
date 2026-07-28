@@ -688,5 +688,15 @@
     "is_today": true,
     "resumo": "<p>Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/\">New GitHub, PyPI Policies Boost Supply Chain Securit",
     "fonte": "SecurityWeek"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+    "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+    "data_dt": "Tue, 28 Jul 2026 18:26:14 +0530",
+    "data_fmt": "28/07/2026",
+    "is_today": true,
+    "resumo": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker ",
+    "fonte": "The Hacker News"
   }
 ]
