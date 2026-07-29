@@ -698,5 +698,15 @@
     "is_today": true,
     "resumo": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker ",
     "fonte": "The Hacker News"
+  },
+  {
+    "produto": "GitHub",
+    "titulo": "1Password targets standing privileges with new access management capabilities",
+    "link": "https://www.helpnetsecurity.com/2026/07/29/1password-privileged-access/",
+    "data_dt": "Wed, 29 Jul 2026 08:25:53 +0000",
+    "data_fmt": "29/07/2026",
+    "is_today": true,
+    "resumo": "<p>1Password has launched 1Password Privileged Access, extending the 1Password Unified Access platform with privileged access management (PAM). It enables just-in-time, least-privilege access to critical infrastructure and is accompanied by the public preview of 1Password Credential Broker for GitHu",
+    "fonte": "Help Net Security"
   }
 ]
